@@ -1,0 +1,5 @@
+- # sobre mim
+- ola meu nome e @suhinglez
+- meu email de contato e suzane.inglez@escola.pr.gov.br
+- eu estou interessada em aprender a programar novas linguagens
+- eu estou aprendendo a programar recentemente a linguagem de JavaScrip e Scratc
